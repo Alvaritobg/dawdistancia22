@@ -1,6 +1,6 @@
 <?php
 /**
-*Funcion para realizar sumas
+*Funcion para realizar sumas ACTUALIZADO!!!
 *@author Alvaro BG
 *@version 1.0
 *@param integer $sum1 primer numero a sumar
