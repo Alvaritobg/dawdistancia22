@@ -17,7 +17,7 @@ $suma = sumar(20,7);
 echo $suma;
 
 /**
-*Funcion para escribir un texto
+*Funcion para escribir un texto cualquiera
 *@author Alvaro BG
 *@version 3.0
 *@param string $texto texto a mostrar
